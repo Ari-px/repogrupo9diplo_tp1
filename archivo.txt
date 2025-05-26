@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Contenido de prueba
+=======
+Este es un archivo de ejemplo para el curso de GitHub.
+>>>>>>> aeac4d2385eda2dff78c68ddf1070dae8fd2be00
+Esta es una segunda línea en el branch nueva-funcionalidad.
